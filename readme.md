@@ -5,6 +5,9 @@ Welcome to the OS Chat Bot project! This file provides an overview of the projec
 ## Project Overview
 This project is a chat bot that aims to answer operating system questions. It is built using in python using LangChain framework and Pinecone vector-store and follows the best practices for RAG (Retreival Augmented Generation).
 
+### User Interface
+![User Interface](https://github.com/adityatodi/os-rag/blob/main/data/screen_ui.png?raw=true)
+
 ## Getting Started
 To get started with the project, follow these steps:
 
@@ -28,4 +31,4 @@ We welcome contributions to this project. To contribute, follow these steps:
 5. Submit a pull request
 
 ## Contact
-For any questions or inquiries, please contact [insert contact information here].
+For any questions or inquiries, please contact [Aditya Todi](mailto:atodi@cs.stonybrook.edu).
